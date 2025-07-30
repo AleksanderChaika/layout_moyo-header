@@ -51,7 +51,7 @@ body {
 }
 
 .is-active {
-  color: var(--blue-color);;
+  color: var(--blue-color);
 }
 
 .link.is-active::after {
